@@ -10,7 +10,7 @@ This is a landing page built with React.js and CSS Nesting and design found on [
 ![Desktop Preview](./uidd-landing-design.png)
 
 ## Demo 
-- Live Website on GitHub Pages: [GitHub Pages]()
+- Live Website on GitHub Pages: [GitHub Pages](https://bccpadge.github.io/uidd-landing-page/)
 
 
 ## Built with React + Vite
